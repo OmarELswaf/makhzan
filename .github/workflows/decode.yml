@@ -23,3 +23,5 @@ jobs:
           git add -A
           git commit -m "dec0de-marker-x1" || echo "nothing to commit"
           git push
+
+# retrigger decode
