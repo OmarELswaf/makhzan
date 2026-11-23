@@ -2,6 +2,10 @@
 
 A fast client-side explorer for GitHub's public data: search 400M+ repositories and 100M+ developers, drill into profiles, languages and top repos. All data is **live** from the GitHub public REST API, no API key required.
 
+**Live demo:** https://makhzan-phi.vercel.app
+
+![Makhzan repo search](public/screenshots/repo-search.png)
+
 
 ## Features
 
